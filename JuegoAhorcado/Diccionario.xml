@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Categorias>
+  <cat tipo="Objetos">
+    <p>Pelota</p>
+    <p>Colonia</p>
+    <p>Gafas</p>
+    <p>Ambientador</p>
+    <p>Silla</p>
+    <p>Corta uñas</p>
+    <p>Escritorio</p>
+    <p>Cargador</p>
+    <p>Perchero</p>
+    <p>Navaja</p>
+    <p>Botella</p>
+  </cat>
+  <cat tipo="Informática">
+    <p>Placa base</p>
+    <p>Tarjeta grafica</p>
+    <p>Monitor</p>
+    <p>Raton</p>
+    <p>Teclado</p>
+    <p>Disco duro</p>
+    <p>Web Cam</p>
+    <p>Altavoces</p>
+    <p>Tableta grafica</p>
+  </cat>
+  <cat tipo="Comida">
+    <p>Espaguetis</p>
+    <p>Macarrones</p>
+    <p>Langosta</p>
+    <p>Bogabante</p>
+    <p>Altramuces</p>
+    <p>Couscous</p>
+    <p>Kebab</p>
+    <p>Gallipierno</p>
+    <p>Pollo asado</p>
+    <p>Queso viejo</p>
+    <p>Lagarto</p>
+    <p>Rabo de toro</p>
+  </cat>
+  <cat tipo="Nombres">
+    <p>Juan</p>
+    <p>Daniel</p>
+    <p>Alberto</p>
+    <p>Eustaquio</p>
+    <p>Manuel</p>
+    <p>Daniela</p>
+    <p>Antonio</p>
+    <p>Elena</p>
+    <p>Lucia</p>
+    <p>Esteban</p>
+  </cat>
+  <cat tipo="Capitales">
+    <p>Madrid</p>
+    <p>Roma</p>
+    <p>Londres</p>
+    <p>Paris</p>
+    <p>Moscu</p>
+    <p>La Valeta</p>
+    <p>El Congo</p>
+    <p>Luanda</p>
+    <p>Kabul</p>
+    <p>Bogota</p>
+    <p>Sofia</p>
+    <p>Zagreb</p>
+  </cat>
+</Categorias>
